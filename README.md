@@ -1,1 +1,1 @@
-um sistema basico para saber se o aluno passou ou nao onde soma notas e dividir;
+Um sitema basico criado em c#. Onde pergunta as notas dos alunos e dividindo se der o valor minimo ou passa, o aluno passa direto, caso nao chegue o minimo ele reprova.
